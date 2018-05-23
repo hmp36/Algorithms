@@ -1,4 +1,4 @@
-find max
+// find max
 
 x= [-3,3,5,7];
 var max = x[0];
